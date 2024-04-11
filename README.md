@@ -1,4 +1,5 @@
-# TSAR SECURITY
+# TSAR
+Modern security solution for software developers.
 
 ### Official Links
 - https://tsar.cc
@@ -9,5 +10,5 @@
 - [Rust Wrapper](https://github.com/tsar-sec/rust-wrapper)
 - [C++ Wrapper](https://github.com/tsar-sec/cpp-wrapper)
 
-### Need support?
-Join our telegram: https://t.me/tsarsec
+### Support Channel
+https://t.me/tsarsec
