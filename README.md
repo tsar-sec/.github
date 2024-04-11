@@ -7,7 +7,6 @@ TSAR is the modern security solution for software developers. We strive to provi
 ### Official Links
 - [tsar.cc](https://tsar.cc)
 - [tsar.app](https://tsar.app)
-- [ts.ar](https://ts.ar)
 
 ### Official Client API Wrappers
 - [Rust Wrapper](https://github.com/tsar-sec/rust-wrapper)
