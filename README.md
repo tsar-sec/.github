@@ -1,5 +1,8 @@
-# TSAR
+## TSAR
+
 Modern security solution for software developers.
+
+---
 
 ### Official Links
 - https://tsar.cc
