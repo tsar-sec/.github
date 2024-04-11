@@ -1,6 +1,6 @@
-## TSAR
+# TSAR
 
-Modern security solution for software developers.
+TSAR is the modern security solution for software developers. We strive to provide a simple, safe, and scalable solution for all of your software security needs.
 
 ---
 
